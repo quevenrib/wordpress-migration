@@ -1,6 +1,9 @@
 # SQL commands for database migration
-Repository with commands for WordPress migration. Fell free to improve.
-To use it you must replace your old and new URLs.
+Repository with basic commands for WordPress migration. Fell free to improve.
+
+To use it you must replace the table prefix and your old and new URLs.
+
+[Here](https://github.com/quevenrib/wordpress-migration/all-database-commands.sql) is the file with the commands below
 
 ## Change "siteurl" or "homeurl"
 ```sql
