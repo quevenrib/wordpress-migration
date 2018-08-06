@@ -1,4 +1,4 @@
-# SQL commands for database
+# SQL commands for database migration
 Repository with commands for WordPress Migration. Fell free to improve.
 
 ## Change "siteurl" or "homeurl"
